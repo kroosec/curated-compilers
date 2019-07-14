@@ -17,7 +17,10 @@ Propositions are welcome, but it may take me some time to add them if ever, due 
 - [Writing an Interpreter in Go](https://interpreterbook.com/): This book is light on theory, but heavy on practice. At 200 pages, this is a quick read, and you can learn Go along the way (or use your favorite language) [to implement the Monkey language](https://github.com/kroosec/magot).
 
 # Articles
-- [Baby's First Garbage Collector](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/) A great introduction to implementing a mark-and-sweep Garbage Collector in C.
-- [What To Know Before Debating Type Systems](https://cdsmith.wordpress.com/2011/01/09/an-old-article-i-wrote/)
+- [Baby's First Garbage Collector](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/): A great introduction to implementing a mark-and-sweep Garbage Collector in C.
+- [What To Know Before Debating Type Systems](https://cdsmith.wordpress.com/2011/01/09/an-old-article-i-wrote/):
   A well-written lengthy article about type systems.
+- [Why Go Is Not Good](http://yager.io/programming/go.html): A nice article
+  about missing/insufficient features in Go programming language, and their
+  counterparts in Rust and Haskell.
 
