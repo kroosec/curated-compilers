@@ -24,3 +24,13 @@ Propositions are welcome, but it may take me some time to add them if ever, due 
   about missing/insufficient features in Go programming language, and their
   counterparts in Rust and Haskell.
 
+# Courses
+- [Programming Languages, by Dan Grossman](https://github.com/kroosec/pl-course):
+  A great course teaching the fundamentals of programming languages theory,
+  with a strong emphasis on functional programming.
+  [Here are my solutions to the coding tasks](https://github.com/kroosec/pl-course).
+    - [Part1](https://www.coursera.org/learn/programming-languages): Focuses on
+      functional programming and related concepts (Recursion, higher-order
+      functions, pattern-matching, type inference etc,.) using Standard ML,
+      a statically-typed functional programming language.
+
