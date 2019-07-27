@@ -7,9 +7,10 @@ languages theory, compilers construction and other related topics
 
 Unlike awesome-* repositories, my goal is to only add resources:
 - That I've fully read (thus, I won't be adding SICP yet ;))
-- And which I found to be of good quality (Concise explanations, challenging
+- Which I found to be of good quality (Concise explanations, challenging
   problem sets, new ideas etc,.)
 
+Where applicable, I add links to coding solutions/projects that I've written for that resource.
 
 Propositions are welcome, but it may take me some time to add them if ever, due to the reasons cited above.
 
@@ -23,6 +24,9 @@ Propositions are welcome, but it may take me some time to add them if ever, due 
 - [Why Go Is Not Good](http://yager.io/programming/go.html): A nice article
   about missing/insufficient features in Go programming language, and their
   counterparts in Rust and Haskell.
+- [A look at the Design of Lua](https://cacm.acm.org/magazines/2018/11/232214-a-look-at-the-design-of-lua/fulltext):
+  A high-level look at the design goals of Lua and how these are reached by
+  building various mechanisms on top of Lua's tables and functions.
 
 # Courses
 - [Programming Languages, by Dan Grossman](https://github.com/kroosec/pl-course):
