@@ -27,6 +27,8 @@ Propositions are welcome, but it may take me some time to add them if ever, due 
 - [A look at the Design of Lua](https://cacm.acm.org/magazines/2018/11/232214-a-look-at-the-design-of-lua/fulltext):
   A high-level look at the design goals of Lua and how these are reached by
   building various mechanisms on top of Lua's tables and functions.
+- [Bytecode compilers and interpreters](https://bernsteinbear.com/blog/bytecode-interpreters/):
+  An easy-to-follow introduction to write a bytecode interpreter in Python.
 
 # Courses
 - [Programming Languages, by Dan Grossman](https://github.com/kroosec/pl-course):
