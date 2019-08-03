@@ -10,7 +10,7 @@ Unlike awesome-* repositories, my goal is to only add resources:
 - Which I found to be of good quality (Concise explanations, challenging
   problem sets, new ideas etc,.)
 
-Where applicable, I add links to coding solutions/projects that I've written for that resource.
+Where applicable, I provided links to coding solutions/projects that I've written for that entry.
 
 Propositions are welcome, but it may take me some time to add them if ever, due to the reasons cited above.
 
@@ -28,7 +28,7 @@ Propositions are welcome, but it may take me some time to add them if ever, due 
   A high-level look at the design goals of Lua and how these are reached by
   building various mechanisms on top of Lua's tables and functions.
 - [Bytecode compilers and interpreters](https://bernsteinbear.com/blog/bytecode-interpreters/):
-  An easy-to-follow introduction to write a bytecode interpreter in Python.
+  An easy-to-follow introduction to writing a bytecode interpreter in Python.
 
 # Courses
 - [Programming Languages, by Dan Grossman](https://github.com/kroosec/pl-course):
@@ -40,3 +40,7 @@ Propositions are welcome, but it may take me some time to add them if ever, due 
       functions, pattern-matching, type inference etc,.) using Standard ML,
       a statically-typed functional programming language.
 
+# Talks/Videos
+- [Lexical Scanning in Go](https://www.youtube.com/watch?v=HxaD_trXwRE): A nice
+  talk by Rob Pike, about writing a lexer and a parser for Go's template
+  system, using a functional style and leveraging Go's concurrency support.
