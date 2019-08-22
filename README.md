@@ -29,6 +29,8 @@ Propositions are welcome, but it may take me some time to add them if ever, due 
   building various mechanisms on top of Lua's tables and functions.
 - [Bytecode compilers and interpreters](https://bernsteinbear.com/blog/bytecode-interpreters/):
   An easy-to-follow introduction to writing a bytecode interpreter in Python.
+- [Why Generics [in Go]](https://blog.golang.org/why-generics): An article
+  explaining the need for generic types in Go, and the proposed implementation in Go 2.
 
 # Courses
 - [Programming Languages, by Dan Grossman](https://github.com/kroosec/pl-course):
