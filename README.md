@@ -31,6 +31,8 @@ Propositions are welcome, but it may take me some time to add them if ever, due 
   An easy-to-follow introduction to writing a bytecode interpreter in Python.
 - [Why Generics [in Go]](https://blog.golang.org/why-generics): An article
   explaining the need for generic types in Go, and the proposed implementation in Go 2.
+- [Models of Generics and Metaprogramming](http://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics/):
+  A general overview of how different languages implement generic types and metaprogramming.
 
 # Courses
 - [Programming Languages, by Dan Grossman](https://github.com/kroosec/pl-course):
