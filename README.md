@@ -33,6 +33,7 @@ Propositions are welcome, but it may take me some time to add them if ever, due 
   explaining the need for generic types in Go, and the proposed implementation in Go 2.
 - [Models of Generics and Metaprogramming](http://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics/):
   A general overview of how different languages implement generic types and metaprogramming.
+- [Making the Tokio scheduler 10x faster](https://tokio.rs/blog/2019-10-scheduler/): A good introduction to how different userspace task schedulers are implemented, and the different tradeoffs made by Rust's Tokio scheduler.
 
 # Courses
 - [Programming Languages, by Dan Grossman](https://github.com/kroosec/pl-course):
