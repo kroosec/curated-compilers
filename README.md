@@ -34,6 +34,7 @@ Propositions are welcome, but it may take me some time to add them if ever, due 
 - [Models of Generics and Metaprogramming](http://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics/):
   A general overview of how different languages implement generic types and metaprogramming.
 - [Making the Tokio scheduler 10x faster](https://tokio.rs/blog/2019-10-scheduler/): A good introduction to how different userspace task schedulers are implemented, and the different tradeoffs made by Rust's Tokio scheduler.
+- [The Implementation of Lua 5.0 [PDF]](https://www.lua.org/doc/jucs05.pdf): A brief dicussion of some of the implementation changes in Lua 5.0 (Register-based VM, optimizing tables when used as arrays etc,.)
 
 # Courses
 - [Programming Languages, by Dan Grossman](https://github.com/kroosec/pl-course):
